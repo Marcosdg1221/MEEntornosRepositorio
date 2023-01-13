@@ -12,7 +12,7 @@ public class main {
 	System.out.println("Pon otro número");
 	int m=all.nextInt();	
 	for (int posicion=0; posicion<n; posicion++){
-	System.out.print(m);
+	System.out.print("hola esta es la rama de Marcos, ahora haciendo un commit");
 	}	
 }
 }

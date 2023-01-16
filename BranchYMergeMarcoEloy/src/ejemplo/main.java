@@ -13,6 +13,7 @@ public class main {
 	int m=all.nextInt();	
 	for (int posicion=0; posicion<n; posicion++){
 	System.out.print(m);
+	System.out.println("Hola soy Eloy");
 	}	
 }
 }
